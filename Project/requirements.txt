@@ -4,4 +4,4 @@ plotly==3.6.1
 numpy==1.16.4
 pandas==0.24.2
 pycountry==18.12.8
-gunicorn==19.9.0
+gunicorn==22.0.0
